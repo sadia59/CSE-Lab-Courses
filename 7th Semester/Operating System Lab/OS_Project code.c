@@ -3,7 +3,6 @@
 #include <time.h>
 
 int main() {
-    // Array of 50 questions
     char *questions[] = {
         "What is the capital of France?",
         "Which planet is known as the Red Planet?",
